@@ -1,0 +1,6 @@
+***  To uninstall previous modules  ***
+Type (Window + R) to open the terminal.
+Type the command: pip uninstall -y -r requirements.txt
+
+***  To install the necessary modules  ***
+Type the command: pip install --upgrade -r requirements.txt
